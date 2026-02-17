@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm JustMargata 👋</h1>
+<h1 align="center">Hey, I'm Margata 👋</h1>
 
 <p align="center">
   <b>12th grade student @ ПГ "Ген. Вл. Заимов" – Сопот</b><br>
@@ -37,6 +37,8 @@
 ## 📌 Featured Projects
 
 - 🍽️ [**OrderWebsiteASP**](https://github.com/JustMargata/OrderWebsiteASP) — Food ordering platform built with ASP.NET Core MVC, EF Core, Identity and a service layer architecture
+- 🎸 [**MuzikalenSvqtStatic**](https://github.com/JustMargata/MuzikalenSvqtStatic) — Static web store for musical instruments
+- 🎹 [**MuzikalenMagazinForms**](https://github.com/JustMargata/MuzikalenMagazinForms) — Musical instruments store with CRUD via WinForms and EF Core Code First
 - 🚚 [**CourierProject**](https://github.com/JustMargata/CourierProject) — Courier management system in C#
 - 💰 [**TransportPrice**](https://github.com/JustMargata/TransportPrice) — Transport pricing calculator in C#
 
@@ -45,8 +47,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustMargata&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustMargata&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=JustMargata&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustMargata&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 ---
